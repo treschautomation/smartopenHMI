@@ -1,7 +1,7 @@
 smartopenHMI
 ============
 
-A multiplatform HMI for Siemens S7 Controllers
+A multiplatform HMI-Projekt for Siemens S7 Controllers
 
 This Projekt offers a free and OpenSource HTML5-HMI with a Service Handler
 
